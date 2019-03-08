@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		286951C5223265E80038638A /* image.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 286951C4223265E80038638A /* image.jpeg */; };
 		2881374C222CC0FD0024A637 /* CustomController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2881374B222CC0FD0024A637 /* CustomController.m */; };
 		28AD60DF22268CCE00A2B307 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 28AD60DE22268CCE00A2B307 /* AppDelegate.m */; };
 		28AD60E222268CCE00A2B307 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28AD60E122268CCE00A2B307 /* ViewController.m */; };
@@ -40,6 +41,7 @@
 
 /* Begin PBXFileReference section */
 		24B6EF2B9399315538099EAD /* libPods-testTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-testTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		286951C4223265E80038638A /* image.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image.jpeg; sourceTree = "<group>"; };
 		2881374A222CC0FD0024A637 /* CustomController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CustomController.h; sourceTree = "<group>"; };
 		2881374B222CC0FD0024A637 /* CustomController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CustomController.m; sourceTree = "<group>"; };
 		28AD60DA22268CCE00A2B307 /* test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = test.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -99,6 +101,7 @@
 		28AD60D122268CCE00A2B307 = {
 			isa = PBXGroup;
 			children = (
+				286951C4223265E80038638A /* image.jpeg */,
 				28AD60DC22268CCE00A2B307 /* test */,
 				28AD60F522268CD000A2B307 /* testTests */,
 				28AD610022268CD000A2B307 /* testUITests */,
@@ -285,6 +288,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				28AD60EA22268CD000A2B307 /* LaunchScreen.storyboard in Resources */,
+				286951C5223265E80038638A /* image.jpeg in Resources */,
 				28AD60E722268CD000A2B307 /* Assets.xcassets in Resources */,
 				28AD60E522268CCE00A2B307 /* Main.storyboard in Resources */,
 			);
